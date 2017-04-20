@@ -10,7 +10,7 @@
 
   </head>
   <body style="margin-top: 60px;">
-    <!-- NAVBAR -->
+    <!-- NAVBAR tester -->
     <nav class="navbar-default navbar-fixed-top" >
         <div class="container">
           <div class="navbar-header">
